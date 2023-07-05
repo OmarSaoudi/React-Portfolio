@@ -1,6 +1,6 @@
 import React, { Component, Fragment } from 'react'
 import '../../asset/css/Bootstrap.min.css'
-import '../../asset/css/custom.css'
+import '../../asset/css/Custom.css'
 import { Button, Col, Container, Row } from 'react-bootstrap'
 
 export class TopBanner extends Component {
